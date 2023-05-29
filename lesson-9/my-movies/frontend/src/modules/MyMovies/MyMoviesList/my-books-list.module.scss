@@ -1,0 +1,11 @@
+.list {
+    margin: 15px 0;
+
+    &Item {
+        margin-bottom: 10px;
+
+        &Cover {
+            width: 100px;
+        }
+    }
+}
